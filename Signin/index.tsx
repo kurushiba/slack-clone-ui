@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 import '../Signup/auth.css';
 
-function Signup() {
+function Signin() {
   return (
     <div className="signup-container">
       <div className="signup-form-container">
@@ -28,4 +28,4 @@ function Signup() {
   );
 }
 
-export default Signup;
+export default Signin;

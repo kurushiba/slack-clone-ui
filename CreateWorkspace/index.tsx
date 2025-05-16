@@ -3,7 +3,7 @@ import CreateWorkspaceModal from '../Home/WorkspaceSelector/CreateWorkspaceModal
 function CreateWorkspace() {
   return (
     <div>
-      <CreateWorkspaceModal onSubmit={() => {}} />
+      <CreateWorkspaceModal />
     </div>
   );
 }

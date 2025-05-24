@@ -1269,6 +1269,7 @@ body {
 .already-invited {
   background-color: #f5f5f5;
   cursor: default !important;
+  opacity: 0.5;
 }
 
 .already-invited:hover {

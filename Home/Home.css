@@ -1078,6 +1078,14 @@ body {
   object-position: center;
 }
 
+.msg-image {
+  height: auto;
+  display: block;
+  border-radius: 4px;
+  max-width: 100%;
+  width: 100%;
+}
+
 .image-actions {
   display: flex;
   gap: 6px;
